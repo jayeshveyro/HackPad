@@ -2,6 +2,13 @@
 I decided to build a Hackpad for my first ever PCB project. This Hackpad consists of a Xiao RP2040 and 9 Cherry MX red switches. I will try to include for functionality in my next project of making a Keyboard.
 
 ## BOM(Bill of Materials)
+| # | Component | SKU | Qty | Unit Price | Subtotal | Link |
+|---|---|---:|---:|---:|---:|---|
+| 1 | Seed Studio Xiao RP2040 |  1201742 | 1 | ₹579.00 | ₹579.00 | [Robu](https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/) |
+| 2 | Cherry MX Red switches | MX1A-L1NA | 1 | ₹375.00 | ₹375.00 | [Meckey](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/) |
+| 3 | Lion Circuit PCB manufacturing | - | 1 | ₹.00 | ₹.00 | [Lion Circuit](https://www.lioncircuits.com/quote) |
+| 4 | Printing Legion | - | 1 | ₹.00 | ₹.00 | HackClub |
+| | **TOTAL** | | | | **₹2731.00** | ||
 
 ## Schematics
 <img width="274" height="417" alt="Screenshot 2026-11-13 212742" src="https://github.com/user-attachments/assets/48135e99-2725-430c-a429-db00d7a593d9" />
