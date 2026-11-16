@@ -1,24 +1,7 @@
 # HackPad
 I decided to build a Macropad for my first ever PCB project. This Hackpad consists of a Xiao RP2040 and 9 Cherry MX red switches. I will try to include for functionality in my next project of making a Keyboard.
 
-## Steps for Firmware
 
-### Step 1: Install CircuitPython on the XIAO RP2040
-
-1. Download the latest CircuitPython .uf2 file for the Seeed Studio XIAO RP2040 from circuitpython.org.
-2. Hold down the tiny B (Boot) button on your XIAO RP2040 while plugging it into your PC via USB-C.
-3. A new USB drive named RPI-RP2 will appear on your computer.
-4. Drag and drop the downloaded .uf2 file onto the RPI-RP2 drive. The board will automatically reboot and reappear as a drive named CIRCUITPY.
-
-### Step 2: Copy KMK Firmware to CIRCUITPY
-
-1. Download the KMK Firmware repository ZIP from GitHub and extract it.
-2. Open the extracted folder and copy the kmk subfolder directly onto the root of your CIRCUITPY drive.
-
-### Step 3: Add Your Keymap (code.py)
-
-1. Open the CIRCUITPY drive and open code.py (or create code.py if it isn't there; CircuitPython runs code.py automatically on boot).
-2. Replace everything inside code.py with the script below—it is configured specifically for your schematic (SW1–SW9 wired directly to D0–D8 and GND):
 
 
 ## BOM(Bill of Materials)
