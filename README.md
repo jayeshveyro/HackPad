@@ -7,7 +7,7 @@ I decided to build a Macropad for my first ever PCB project. This Hackpad consis
 | 1 | Seed Studio Xiao RP2040 |  1201742 | 1 | ₹579.00 | ₹579.00 | [Robu](https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/) |
 | 2 | Cherry MX Red switches | MX1A-L1NA | 1 | ₹375.00 | ₹375.00 | [Meckey](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/) |
 | 3 | Lion Circuit PCB manufacturing | - | 1 | ₹.00 | ₹.00 | [Lion Circuit](https://www.lioncircuits.com/quote) |
-| 4 | Robu 3D Printing Services | - | 1 | ₹250.00 | ₹250.00 | [Robu](https://robu.in/product/3d-printing-service1/) |
+| 4 | Printing Legion | - | 1 | ₹475.00 | ₹470.00 | [HackClub]() |
 | | **TOTAL** | | | | **₹2731.00** | ||
 
 ## Schematics
